@@ -1,0 +1,18 @@
+.Borrar{
+    height: 80px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background-color: #e06d9b;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 20px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+.Borrar:hover{
+    background-color: blue;
+}
